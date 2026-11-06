@@ -1,0 +1,6 @@
+{
+    "name": "Message Scheduler",
+    "description": "Schedule messages: /schedule 30m hello",
+    "authors": [{ "name": "You" }],
+    "main": "index.js"
+}   
